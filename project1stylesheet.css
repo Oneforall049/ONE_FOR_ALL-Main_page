@@ -297,7 +297,7 @@ b{
     justify-content:flex-start;
     align-items: stretch;
     box-sizing: border-box;
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.0/IMAGES%20AND%20VIDEOS/bg-p.jpg');
+    background-image: url('IMAGES/bg-p.jpg');
     background-position: center;
     background-size: cover;
     z-index: 1;
@@ -345,7 +345,7 @@ b{
     justify-content:flex-start;
     align-items: stretch;
     box-sizing: border-box;
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.0/IMAGES%20AND%20VIDEOS/factbg1.jpg');
+    background-image: url('IMAGES/factbg.jpg');
     background-position: center;
     background-size: cover;
     z-index: 1;
@@ -408,7 +408,7 @@ b{
     justify-content:flex-start;
     align-items: stretch;
     box-sizing: border-box;
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.0/IMAGES%20AND%20VIDEOS/About%20Us%20BG.jpg');
+    background-image: url('IMAGES/About\ Us\ BG.jpg');
     background-position: center;
     background-size: cover;
     z-index: 1;
@@ -497,7 +497,7 @@ b{
     top:180px;
     display: flex;
     box-sizing: border-box;
-    background-image: url('file:///D:/TEAM%20ONE%20FOR%20ALL%20RECORDS/PROJECT%201.0/IMAGES%20AND%20VIDEOS/project1img1.jpg');
+    background-image: url('IMAGES/project1img1.jpg');
     background-position: center;
     background-size: cover;
     padding: 20px 20px;
